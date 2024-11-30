@@ -176,5 +176,6 @@ where row_num >1 -- Select records where the row number is greater than 1, indic
 ```
 #### (Optional, not included in the script) You can delete the duplicates based on the row number using a DELETE statement if necessary.
 
-
+### References 
+1. Kaggle (https://www.kaggle.com/datasets)
 
